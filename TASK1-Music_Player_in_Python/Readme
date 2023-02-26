@@ -1,4 +1,5 @@
-# CodeClause_Calculator
-Completely in Python
-Hey everyone , This is my Allocated project 2 in The codeclause internship.
-Hope You like it..... 
+# CodeClause_MusicPlayer
+Music Player using Python
+To use pygame module , Use this command in terminal : pip install pygame
+To use tkinter module , Use this command in terminal:  pip install tkinter
+#Hope it helps....
